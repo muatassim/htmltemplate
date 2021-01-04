@@ -1,6 +1,8 @@
 .myImage {
-    border: solid 1px black;
-    width: 60px;
+    border: solid 2px goldenrod;
+    width: 75px;
     height: 100px;
-    float: right;
+    position: relative;
+    top:-16px;
+    right:-706px;
   }
