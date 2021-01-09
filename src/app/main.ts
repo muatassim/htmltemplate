@@ -5,7 +5,7 @@ class Main {
     }
     init() {
         toastr.options.positionClass = 'toast-bottom-full-width'
-        toastr.error("This is the information","Title Toaster");
+        toastr.info("This is the information","Title Toaster");
     }
 }
 export {Main}
